@@ -32,7 +32,6 @@
         <url>https://github.com/eatnuh/eatnuh-sample-lib.git</url>
     </scm>
 
-
     <distributionManagement>
         <snapshotRepository>
             <id>ossrh</id>
