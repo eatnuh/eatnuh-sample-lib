@@ -92,7 +92,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <additionalJOption>-Xdoclint:none</additionalJOption>
+                    <additionalparam>-Xdoclint:none</additionalparam>
                 </configuration>
             </plugin>
 
