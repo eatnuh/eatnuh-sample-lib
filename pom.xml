@@ -6,7 +6,7 @@
 
     <groupId>io.github.eatnuh</groupId>
     <artifactId>eatnuh-sample-lib</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>eatnuh-sample-lib</name>
@@ -92,9 +92,6 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration>
-                    <additionalparam>-Xdoclint:none</additionalparam>
-                </configuration>
             </plugin>
 
             <plugin>
@@ -111,9 +108,6 @@
                     </execution>
                 </executions>
             </plugin>
-
-            <!-- GPG sign -->
-
         </plugins>
     </build>
 
